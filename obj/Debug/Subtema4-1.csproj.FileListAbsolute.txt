@@ -5,3 +5,10 @@ D:\subtema4.1\Subtema4-1\Subtema4-1\obj\Debug\Subtema4-1.csproj.AssemblyReferenc
 D:\subtema4.1\Subtema4-1\Subtema4-1\obj\Debug\Subtema4-1.csproj.CoreCompileInputs.cache
 D:\subtema4.1\Subtema4-1\Subtema4-1\obj\Debug\Subtema4-1.exe
 D:\subtema4.1\Subtema4-1\Subtema4-1\obj\Debug\Subtema4-1.pdb
+C:\Users\UCF20400\Desktop\clon\Subtema4.1\bin\Debug\Subtema4-1.exe.config
+C:\Users\UCF20400\Desktop\clon\Subtema4.1\bin\Debug\Subtema4-1.exe
+C:\Users\UCF20400\Desktop\clon\Subtema4.1\bin\Debug\Subtema4-1.pdb
+C:\Users\UCF20400\Desktop\clon\Subtema4.1\obj\Debug\Subtema4-1.csproj.AssemblyReference.cache
+C:\Users\UCF20400\Desktop\clon\Subtema4.1\obj\Debug\Subtema4-1.csproj.CoreCompileInputs.cache
+C:\Users\UCF20400\Desktop\clon\Subtema4.1\obj\Debug\Subtema4-1.exe
+C:\Users\UCF20400\Desktop\clon\Subtema4.1\obj\Debug\Subtema4-1.pdb

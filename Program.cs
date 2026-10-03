@@ -17,7 +17,7 @@ namespace Subtema4_1
             string codigo="", carrera="", bienvenido="";
             do {
                 Console.Clear();//limpia la consola por cada ejecucion
-                Console.WriteLine("***********MENU DE OPCIONES**************");
+                Console.WriteLine("***********MENU DE OPCIONES GIT**************");
                 Console.WriteLine("1.Leer código de estudiante y carrera.");
                 Console.WriteLine("2.Formar una nueva etiqueta textual con ambos(concatenado).");
                 Console.WriteLine("3.Mostrar longitud de caracteres del código, carrera y etiqueta.");
